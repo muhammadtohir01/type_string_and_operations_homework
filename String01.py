@@ -5,4 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="salom.uz"
+    return a
+print(main())
