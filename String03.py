@@ -1,3 +1,7 @@
+from re import A
+from traceback import print_tb
+
+
 def main():
     """
     "*" Return a string that consists of only this character and is five in length.
@@ -6,4 +10,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a='*****'
+    return a 
+print(main())
