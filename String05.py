@@ -12,4 +12,4 @@ def main(s1,s2):
     """
     answer=s1 + s2
     return answer
-print(main(("python") , ("code")))
+print(main(("python") , (" code")))
